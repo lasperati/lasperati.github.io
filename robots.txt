@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lasperati.github.io/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/app/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/assets/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/css/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/includes/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/item/lasperati.txt.gz
+Sitemap: https://lasperati.github.io/src/lasperati.txt.gz
